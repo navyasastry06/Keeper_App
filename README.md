@@ -13,24 +13,6 @@ You can add and delete notes with titles and content.
 
 ---
 
-## 📂 Project Structure
-.
-├── public/
-│ └── index.html
-├── src/
-│ ├── components/
-│ │ ├── App.jsx
-│ │ ├── Header.jsx
-│ │ ├── Footer.jsx
-│ │ ├── Note.jsx
-│ │ └── CreateArea.jsx
-│ ├── index.js
-│ └── styles.css
-└── package.json
-
-
----
-
 ## 🛠️ Installation
 
 1. Clone the repository:
