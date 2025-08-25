@@ -6,14 +6,15 @@ You can add and delete notes with titles and content.
 ---
 
 ## 🚀 Features
-- ➕ Add notes with a title and content  
-- ❌ Delete notes  
-- 🎨 Styled with Material-UI (MUI)  
-- ⚡ Built using the latest **React 19**  
+-  Add notes with a title and content  
+-  Delete notes  
+-  Styled with Material-UI (MUI)  
+-  Built using the latest **React 19**  
 
 ---
 
 ## 📂 Project Structure
+.
 ├── public/
 │ └── index.html
 ├── src/
