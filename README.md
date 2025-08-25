@@ -1,11 +1,11 @@
-# 📝 Keeper App
+# Keeper App
 
 A simple **Google Keep clone** built using **React**.  
 You can add and delete notes with titles and content.  
 
 ---
 
-## 🚀 Features
+## Features
 -  Add notes with a title and content  
 -  Delete notes  
 -  Styled with Material-UI (MUI)  
@@ -13,7 +13,7 @@ You can add and delete notes with titles and content.
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. Clone the repository:
    ```bash
